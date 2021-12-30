@@ -1,0 +1,11 @@
+a{
+    color: #ec4151;
+}
+
+a:hover{
+    color: #d1192b;
+}
+.page-footer{
+    background: #0d0d0dc7;
+    margin-top: 45px;
+}
